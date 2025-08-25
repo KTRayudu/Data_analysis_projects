@@ -17,7 +17,7 @@ Welcome to my data analysis portfolio. This repository contains a collection of 
 ---
 
 ### Project 1: Sleep Health and Lifestyle Analysis
-* **File:** [`Project_1_Sleep_Health_Analysis.ipynb`](./Project_1_Sleep_Health_Analysis.ipynb)
+* **File:** [`Project_1_Sleep_Health_Analysis.ipynb`](./Sleep_Health_Analysis.ipynb)
 * **Skills:** Data Cleaning, Data Visualization (Matplotlib, Seaborn), Binary Classification, Health Data Analysis
 
 #### **Objective**
@@ -34,7 +34,7 @@ The analysis revealed a strong correlation between higher stress levels and shor
 ---
 
 ### Project 2: Exploratory Data Analysis of Loan Applications
-* **File:** [`Project_2_Loan_Application_EDA.ipynb`](./Project_2_Loan_Application_EDA.ipynb)
+* **File:** [`Project_2_Loan_Application_EDA.ipynb`](./Loan_Application_EDA.ipynb)
 * **Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Missing Value Imputation, Outlier Detection
 
 #### **Objective**
@@ -50,7 +50,7 @@ The EDA produced a clean dataset ready for predictive modeling. The analysis rev
 ---
 
 ### Project 3: Descriptive Statistics on Employee Wages
-* **File:** [`Project_3_Employee_Wage_Statistics.ipynb`](./Project_3_Employee_Wage_Statistics.ipynb)
+* **File:** [`Project_3_Employee_Wage_Statistics.ipynb`](./Employee_Wage_Statistics.ipynb)
 * **Skills:** Data Cleaning, Descriptive Statistics, Data Storytelling, Segmented Analysis
 
 #### **Objective**
@@ -66,7 +66,7 @@ Uncovered a significant gender imbalance in senior and management roles. The sal
 ---
 
 ### Project 4: Superstore Sales Dashboard Analysis
-* **File:** [`Project_4_Superstore_Sales_Dashboard.ipynb`](./Project_4_Superstore_Sales_Dashboard.ipynb)
+* **File:** [`Project_4_Superstore_Sales_Dashboard.ipynb`](./Superstore_Sales_Dashboard.ipynb)
 * **Skills:** Business Intelligence, Data Interpretation, KPI Analysis, Excel
 
 #### **Objective**
@@ -83,7 +83,7 @@ Identified the "West" region as the top performer in sales. Found that "Phones" 
 ---
 
 ### Project 5: Customer Behavior and Financial Analysis
-* **File:** [`Project_5_Customer_Behavior_Analysis.ipynb`](./Project_5_Customer_Behavior_Analysis.ipynb)
+* **File:** [`Project_5_Customer_Behavior_Analysis.ipynb`](./Customer_Behavior_Analysis.ipynb)
 * **Skills:** Data Cleaning, Feature Engineering, Exploratory Data Analysis (EDA)
 
 #### **Objective**
@@ -100,7 +100,7 @@ The initial data cleaning process successfully prepared the dataset for analysis
 ---
 
 ### Project 6: Movie Industry Financials EDA
-* **File:** [`Project_6_Movie_Industry_Financials.ipynb`](./Project_6_Movie_Industry_Financials.ipynb)
+* **File:** [`Project_6_Movie_Industry_Financials.ipynb`](./Movie_Industry_Financials.ipynb)
 * **Skills:** Data Cleaning (Type Conversion, String Manipulation), Exploratory Data Analysis
 
 #### **Objective**
@@ -116,7 +116,7 @@ The data was successfully cleaned and transformed, making it ready for quantitat
 ---
 
 ### Project 7: Sleep Disorder Classification Prep
-* **File:** [`Project_7_Sleep_Disorder_Classification_Prep.ipynb`](./Project_7_Sleep_Disorder_Classification_Prep.ipynb)
+* **File:** [`Project_7_Sleep_Disorder_Classification_Prep.ipynb`](./Sleep_Disorder_Classification_Prep.ipynb)
 * **Skills:** Data Preparation, Feature Scaling, Model Preparation (Scikit-learn)
 
 #### **Objective**
